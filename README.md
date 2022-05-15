@@ -14,22 +14,22 @@ Programming is my passion, I would like to learn new technologies, concepts & to
 
 ## Skills
 
-##### Programming languages
+#### Programming languages
 C/C++, java, C#, python, javascript
 
-##### Runtime environment
+#### Runtime environment
 NodeJs
 
-##### Libraries and Framework
+#### Libraries and Framework
 ExpressJs, ReactJs, NextJS, Django, Bootstrap
 
-##### Database
+#### Database
 SQL, NoSQL, Oracle, MySQL, PostgreSQL, MongoDB
 
-##### Others Technologies
+#### Others Technologies
 TypeScript, Restful Web Services, Django REST Framework, Socket.io,  JQuery, Sass, Styled-Components , MaterialUI
 
-##### Workspace
+#### Workspace
 
 - 🔭 I’m currently working on Binary Bunon 
 - 🌱 I’m currently learning Microservices Architecture 
