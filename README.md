@@ -12,7 +12,7 @@ I have generalized knowledge of C/C++, Java, C#, Python programming language, an
 
 Programming is my passion, I would like to learn new technologies, concepts & tools to enlarge myself in every situation.
 
-#### Skills
+## Skills
 
 ##### Programming languages
 C/C++, java, C#, python, javascript
