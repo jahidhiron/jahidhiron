@@ -6,7 +6,7 @@
 #### About me
 👋 Hello, World! I'm Jahid Hiron, a passionate JavaScript developer building the web, one line of code at a time.
 
-🚀 Aspiring to create seamless and delightful user experiences, I specialize in front-end development using React.js and have a knack for crafting scalable back-end solutions with Node.js. With a foundation in full-stack development, I bring a unique perspective to every project.
+🚀 Aspiring to create seamless and delightful user experiences, I specialize in scalable back-end development using Nodejs and have a knack for crafting front-end solutions with React. With a foundation in full-stack development, I bring a unique perspective to every project.
 
 💡 Constantly curious and committed to learning, I'm on a journey to explore new technologies and best practices. My repositories showcase a mix of personal projects, contributions to open-source, and experiments with cutting-edge tools.
 
