@@ -1,41 +1,85 @@
 ## Hi there 👋, I am Jahid Hiron
 
-#### Software Engineer | Javascript | Typescript | Educator
+#### Software Engineer | Educator | Typescript
 ![I am a full-stack developer](https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67)
 
 #### About me
-👋 Hello, World! I'm Jahid Hiron, a passionate JavaScript developer building the web, one line of code at a time.
-
-🚀 Aspiring to create seamless and delightful user experiences, I specialize in scalable back-end development using Nodejs and have a knack for crafting front-end solutions with React. With a foundation in full-stack development, I bring a unique perspective to every project.
-
-💡 Constantly curious and committed to learning, I'm on a journey to explore new technologies and best practices. My repositories showcase a mix of personal projects, contributions to open-source, and experiments with cutting-edge tools.
-
-🌐 Let's connect and collaborate! Whether you're interested in my projects or have an exciting opportunity, feel free to reach out. I'm always up for a coding adventure.
+I am an experienced JavaScript full-stack engineer with over five years of hands-on expertise in front-end and back-end development. I am proficient in using React.js, Node.js, and Express.js frameworks and have a solid foundation in database management.
+I am committed to delivering high-quality solutions that align with business objectives and work collaboratively with my team.
+I also teach on Udemy to share my knowledge with fellow engineers.
 
 ## Skills
 
-#### Programming languages
-C/C++, java, C#, python, javascript
+JavaScript
+Typescript
+Node.js
+Express.js
+RESTful API
+PostgreSQL
+MySQL
+MongoDb
+React
+Next.js
+Redux
+Socket Programming
+Jest
+HTML
+CSS
+Bootstrap
+SASS
+MaterialUI
+Tailwind CSS
+Docker
+Kubernetes
+Microservices
+Jenkins
+Git
+Github
+CI/CD
+AWS
 
-#### Runtime environment
-NodeJs
+## Experience
 
-#### Libraries and Framework
-Expressjs, React, Nextjs, Django, Bootstrap
+### Course Instructor
+**Udemy**
+11/2023 - Present
+**https://www.udemy.com/user/jahid-hiron**
+I have created comprehensive learning experiences with high-quality videos, lectures, quizzes, and supplementary materials that meet industry standards and best practices.
+Regularly update course materials to refl ect the latest advancements.
+Provide prompt and effective student support, addressing inquiries, clarifying concepts, and fostering a positive learning environment.
 
-#### Database
-SQL, NoSQL, Oracle, MySQL, PostgreSQL, MongoDB
+### Software Engineer
+**Teamlance**
+06/2022 - Present 
+Developed and maintained scalable software solutions for complex business needs, ensuring high performance and reliability.
+I led teams, made critical decisions, and mentored teams to deliver successful projects.
+Collaborated with product managers, designers, and stakeholders to defi ne project requirements and deliverables.
 
-#### Others Technologies
-Socket.io, React Redux, Redux Saga, Redis
+### Software Engineer
+**Binary Bunon**
+08/2020 - 05/2022 
+Investigated and resolved software issues on time to ensure smooth operation.
+I have followed the best practices in software development, which include performing code reviews, testing, and documentation.
+Participated in all stages of the software development life cycle.
 
-#### Workspace
+### Software Engineer
+**BrainBoxBD**
+06/2019 - 07/2020
+Collaborated closely with cross-functional teams to gain deeper understanding and deliver high-quality solutions that met all necessary criteria.
+Contributed to the documentation of software designs and procedures.
+Enforced best practices and coding standards to foster excellence and continuous improvement.
 
-- 🔭 I’m currently working at Teamlance 
-- 🌱 I’m currently learning Microservices Architecture 
-- 👯 I’m looking to collaborate on who are interested in programming 
-- 💬 Ask me about vanillajs, modernjs, Typescript, Nodejs, Expressjs, Reactjs, Nextjs, MongoDB 
-- 📫 How to reach me: namehiron.96@gmail.com 
+### Junior Software Engineer
+**Simplex IT Solutions**
+06/2018 - 11/2018
+Developed and maintained software applications under the guidance of senior engineers.
+Participated in code reviews, contributing to a 20% increase in code quality adherence and the implementation of best practices.
+
+### Software Engineer Internship
+**Simplex IT Solutions**
+12/2018 - 05/2019
+Obtained valuable practical experience while working in an active and collaborative team environment.
+
 
 ## Social Links
 
