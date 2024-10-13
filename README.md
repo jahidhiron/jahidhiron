@@ -205,14 +205,15 @@ Engaged in hands-on laboratory experiments and projects.
 
 ## Social Links
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" style="background-color: #0077b5; padding: 5px;">](https://www.linkedin.com/in/jahidhiron)  
+[<svg height="30" width="30" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#0077b5"><path d="M19 0h-14c-2.21 0-4 1.79-4 4v16c0 2.21 1.79 4 4 4h14c2.21 0 4-1.79 4-4v-16c0-2.21-1.79-4-4-4zm-9 20h-2v-8h2v8zm-1-9.25c-.65 0-1.17-.53-1.17-1.17s.53-1.17 1.17-1.17 1.17.53 1.17 1.17-.53 1.17-1.17 1.17zm10 9.25h-2v-4.47c0-1.07-.02-2.43-1.48-2.43-1.48 0-1.71 1.16-1.71 2.35v4.55h-2v-8h2v1.09c.26-.4.73-.98 1.78-.98 1.92 0 2.27 1.26 2.27 2.91v5.98z"/></svg>](https://www.linkedin.com/in/jahidhiron)  
+&nbsp; &nbsp; &nbsp; 
+[<svg height="30" width="30" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#00ab6c"><path d="M12 0c-6.627 0-12 5.373-12 12 0 6.627 5.373 12 12 12 6.627 0 12-5.373 12-12 0-6.627-5.373-12-12-12zm-3 18h-2v-12h2v12zm-1-14.088c-.724 0-1.311.588-1.311 1.311s.588 1.311 1.311 1.311 1.311-.588 1.311-1.311c0-.724-.588-1.311-1.311-1.311zm15 18h-2v-6.033c0-3.114-1.454-4.568-3.45-4.568-1.55 0-2.925.883-3.375 2.146-.174.418-.217.991-.217 1.573v6.882h-2v-12h2v1.578c1.162-1.818 3.16-2.578 5.279-2.578 3.876 0 6.721 2.537 6.721 7.967v6.034z"/></svg>](https://medium.com/@jahidhiron)  
+&nbsp; &nbsp; &nbsp; 
+[<svg height="30" width="30" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#0a0a0a"><path d="M21 12h-6.586l3.293-3.293-1.414-1.414-6 6 6 6 1.414-1.414-3.293-3.293h6.586zm-18 0h6.586l-3.293 3.293 1.414 1.414 6-6-6-6-1.414 1.414 3.293 3.293h-6.586z"/></svg>](https://dev.to/jahidhiron)  
+&nbsp; &nbsp; &nbsp; 
+[<svg height="30" width="30" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#00aff0"><path d="M22.328 6.079c-.829.373-1.719.623-2.651.735.954-.573 1.689-1.479 2.034-2.557-.891.527-1.875.913-2.918 1.123-.839-.894-2.036-1.451-3.365-1.451-2.543 0-4.609 2.067-4.609 4.612 0 .362.041.714.117 1.053-3.835-.192-7.224-2.029-9.503-4.826-.397.683-.623 1.477-.623 2.324 0 1.604.815 3.019 2.058 3.84-.761-.024-1.479-.233-2.107-.577v.057c0 2.241 1.589 4.118 3.706 4.545-.387.105-.797.161-1.222.161-.3 0-.592-.029-.878-.085.592 1.843 2.309 3.191 4.353 3.23-1.592 1.246-3.586 1.993-5.758 1.993-.374 0-.743-.022-1.107-.065 2.048 1.314 4.484 2.079 7.092 2.079 8.497 0 13.145-7.04 13.145-13.125 0-.2 0-.398-.015-.594.905-.651 1.684-1.464 2.303-2.396z"/></svg>](https://join.skype.com/invite/sdU7NzsHDyOJ)  
+&nbsp; &nbsp; &nbsp; 
+[<svg height="30" width="30" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#1DA1F2"><path d="M22.46 6.011c-.773.344-1.604.576-2.477.678.89-.532 1.573-1.38 1.895-2.382-.832.492-1.749.848-2.726 1.045-.783-.832-1.897-1.352-3.14-1.352-2.378 0-4.296 1.934-4.296 4.32 0 .338.038.668.114.988-3.563-.178-6.71-1.886-8.812-4.48-.37.634-.581 1.37-.581 2.163 0 1.496.761 2.81 1.919 3.582-.707-.022-1.374-.217-1.95-.543v.054c0 2.085 1.482 3.818 3.454 4.215-.363.099-.743.153-1.134.153-.278 0-.549-.027-.815-.078.553 1.717 2.154 2.966 4.057 2.996-1.48 1.14-3.347 1.82-5.373 1.82-.348 0-.692-.02-1.033-.061 1.916 1.229 4.194 1.944 6.642 1.944 7.972 0 12.342-6.6 12.342-12.303 0-.186-.004-.372-.013-.557.848-.611 1.582-1.374 2.166-2.247z"/></svg>](https://twitter.com/jahid_hiron)
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="medium" height="30" style="background-color: #00ab6c; padding: 5px;">](https://medium.com/@jahidhiron)  
-
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.to" height="30" style="background-color: #0a0a0a; padding: 5px;">](https://dev.to/jahidhiron)  
-
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/skype.svg" alt="skype" height="30" style="background-color: #00aff0; padding: 5px;">](https://join.skype.com/invite/sdU7NzsHDyOJ)  
-
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" style="background-color: #1DA1F2; padding: 5px;">](https://twitter.com/jahid_hiron)
 
 
