@@ -205,4 +205,13 @@ Engaged in hands-on laboratory experiments and projects.
 
 ## Social Links
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" style="color: #0077b5;">](https://www.linkedin.com/in/jahidhiron)  &nbsp; &nbsp; &nbsp; [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="medium" height="30" style="color: #00ab6c;">](https://medium.com/@jahidhiron) &nbsp; &nbsp; &nbsp; [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.to" height="30" style="color: #0a0a0a;">](https://dev.to/jahidhiron)  &nbsp; &nbsp; &nbsp; [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/skype.svg" alt="skype" height="30" style="color: #00aff0;">](https://join.skype.com/invite/sdU7NzsHDyOJ)  &nbsp; &nbsp; &nbsp; [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="40" style="color: #1DA1F2;">](https://twitter.com/jahid_hiron) 
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" style="fill: #0077b5;">](https://www.linkedin.com/in/jahidhiron)  
+&nbsp; &nbsp; &nbsp; 
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="medium" height="30" style="fill: #00ab6c;">](https://medium.com/@jahidhiron)  
+&nbsp; &nbsp; &nbsp; 
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.to" height="30" style="fill: #0a0a0a;">](https://dev.to/jahidhiron)  
+&nbsp; &nbsp; &nbsp; 
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/skype.svg" alt="skype" height="30" style="fill: #00aff0;">](https://join.skype.com/invite/sdU7NzsHDyOJ)  
+&nbsp; &nbsp; &nbsp; 
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" style="fill: #1DA1F2;">](https://twitter.com/jahid_hiron)
+
