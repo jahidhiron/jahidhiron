@@ -1,11 +1,11 @@
 ## Hi there 👋, I am Jahid Hiron
 
-#### Software Engineer | Educator | Typescript
+#### Software Engineer | Educator | JavaScript, TypeScript, AWS
 
 ## About me
 I am an experienced JavaScript full-stack engineer with over five years of hands-on expertise in front-end and back-end development.
 <br />
-My expertise spans various technologies including Node.js, Express.js, React, Next.js, and cloud solutions like Docker, Kubernetes, and AWS. I also have extensive experience in microservices architecture and database management (MongoDB, PostgreSQL, MySQL).
+My expertise spans various technologies, including Node.js, Express.js, React, Next.js, and cloud solutions like Docker, Kubernetes, and AWS. I also have extensive experience in microservices architecture and database management (MongoDB, PostgreSQL, MySQL).
 <br />
 I also teach on Udemy to share my knowledge with fellow engineers.
 
@@ -205,4 +205,4 @@ Engaged in hands-on laboratory experiments and projects.
 
 ## Social Links
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" style="color: #0077b5;">](https://www.linkedin.com/in/jahidhiron)  &nbsp; &nbsp; &nbsp; [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="medium" height="30" style="color: #00ab6c;">](https://medium.com/@jahidhiron) &nbsp; &nbsp; &nbsp; [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.to" height="30" style="color: #0a0a0a;">](https://dev.to/jahidhiron)  &nbsp; &nbsp; &nbsp; [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/skype.svg" alt="skype" height="30" style="color: #00aff0;">](https://join.skype.com/invite/sdU7NzsHDyOJ)  &nbsp; &nbsp; &nbsp; [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/x.svg" alt="X" height="40" style="color: #000000;">](https://twitter.com/jahid_hiron) 
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" style="color: #0077b5;">](https://www.linkedin.com/in/jahidhiron)  &nbsp; &nbsp; &nbsp; [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="medium" height="30" style="color: #00ab6c;">](https://medium.com/@jahidhiron) &nbsp; &nbsp; &nbsp; [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.to" height="30" style="color: #0a0a0a;">](https://dev.to/jahidhiron)  &nbsp; &nbsp; &nbsp; [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/skype.svg" alt="skype" height="30" style="color: #00aff0;">](https://join.skype.com/invite/sdU7NzsHDyOJ)  &nbsp; &nbsp; &nbsp; [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="40" style="color: #1DA1F2;">](https://twitter.com/jahid_hiron) 
