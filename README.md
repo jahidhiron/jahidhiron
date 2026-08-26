@@ -41,7 +41,7 @@ Although I am based in Bangladesh, I work with teams worldwide on remote-first d
 
 **Programming Languages**
 <br />
-JavaScript • TypeScript • Python • Java • C# • C++ • PHP/jQuery
+JavaScript • TypeScript • Python
 
 **Backend Development**
 <br />
@@ -190,6 +190,17 @@ A production-grade REST API starter template using **NestJS 11, PostgreSQL, Type
 - Integrated **Socket.IO** for real-time WebSocket updates and **RabbitMQ** for decoupled background processing.
 - Applied **Helmet** security headers, CORS allowlisting, scrypt password hashing, HIBP breach checks, and **Redis-based rate limiting**; included **Docker Compose**, **Swagger/OpenAPI** auto-documentation, i18n support, and **Jest unit + e2e** coverage.
 
+### 🔹 [BRAC Group ERP – Budget Control, Fleet Management & Project Management (Microservices)](https://bit.ly/4ucQBGo)
+
+📅 Jan 2025 – Jul 2025
+
+BRAC Group ERP streamlines core operations across Budget Control, Fixed Asset, Finance & Accounting, Inventory, Procurement, Campus Maintenance, Fleet Management, HRMS, and Project Management — built as independently deployable microservices with dedicated databases and APIs.
+
+- **Budget Control:** Budget planning, allocation, donor project budgets with cost centers and funding sources, budget revision/reallocation with approval tracking, **variance analysis**, and audit-ready summary reporting integrated with Finance.
+- **Fleet Management:** Vehicle registration, trip management, maintenance scheduling, fuel consumption tracking, and driver management with real-time status updates.
+- **Project Management:** Centralized platform for project creation, planning, task management, milestone/progress tracking, and multi-level role-based approval chains.
+- Built with **NestJS, Next.js, SQL** with role-based approval workflows (delegation, multi-level approval, audit logging) shared across ERP modules.
+
 ### 🔹 [Prime Bank ERP – Central Dispatch Module (Microservices)](https://bit.ly/4ek1RvR)
 
 📅 Aug 2024 – Jul 2025
@@ -202,17 +213,6 @@ Central Dispatch securely manages and tracks parcel, file, and equipment dispatc
 - Routing & handoff management between sender, dispatch officer, and receiver — ensuring accountability.
 - File sharing & logging with detailed history logs for audit trails.
 - Secure operations with **role-based access**, real-time notifications, and comprehensive audit logs.
-
-### 🔹 [BRAC Group ERP – Budget Control, Fleet Management & Project Management (Microservices)](https://bit.ly/4ucQBGo)
-
-📅 Jan 2025 – Jul 2025
-
-BRAC Group ERP streamlines core operations across Budget Control, Fixed Asset, Finance & Accounting, Inventory, Procurement, Campus Maintenance, Fleet Management, HRMS, and Project Management — built as independently deployable microservices with dedicated databases and APIs.
-
-- **Budget Control:** Budget planning, allocation, donor project budgets with cost centers and funding sources, budget revision/reallocation with approval tracking, **variance analysis**, and audit-ready summary reporting integrated with Finance.
-- **Fleet Management:** Vehicle registration, trip management, maintenance scheduling, fuel consumption tracking, and driver management with real-time status updates.
-- **Project Management:** Centralized platform for project creation, planning, task management, milestone/progress tracking, and multi-level role-based approval chains.
-- Built with **NestJS, Next.js, SQL** with role-based approval workflows (delegation, multi-level approval, audit logging) shared across ERP modules.
 
 ### 🔹 [Amani Forged – E-Commerce Platform for Custom Automotive Wheels (NetSuite Integration)](https://amaniforged.com/)
 
