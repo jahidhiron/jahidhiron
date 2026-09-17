@@ -164,102 +164,187 @@ Japahas delivers custom software and automation solutions.
 
 ## 🚀 Featured Projects
 
-### 🔹 [ServerIQ – Server Monitoring & SaaS Subscription Billing Platform](https://bit.ly/4xnP6rZ)
+A snapshot of the systems I've designed, built, and shipped across SaaS, ERP, e-commerce, education, and recruitment — from real-time monitoring and Stripe billing to microservices platforms and full-stack products.
 
-📅 Aug 2025 – Present
+---
+
+### 🔹 ServerIQ – Server Monitoring & SaaS Subscription Billing Platform
+
+📅 Aug 2025 – Present · 🏢 [ChartVPS Technologies](https://www.chartvps.com) · 🌐 [serveriq.io](https://serveriq.io)
 
 A secure, multi-tenant server monitoring and hosting management platform that gives individuals and teams real-time infrastructure visibility, automated incident response, and subscription-based access control.
 
-- Real-time CPU (per-core + iowait), RAM, swap, disk, inodes, network, load averages, processes, and API performance — with **1,200+ servers · ~1 metric/server/min · 99.9% uptime · 200+ teams · 10,000+ DAU**.
-- Configurable alert rules with automatic incident creation and multi-channel notifications: email, SMS, Slack, Discord, WhatsApp, Telegram, Teams, webhooks, in-app.
+- Worked as a **Software Engineer** on the core ServerIQ infrastructure. When a server is launched, a **ServerIQ Agent** is installed with a Gateway API endpoint and unique server key. The agent collects CPU, RAM, disk, network, processes, and availability metrics, sending them to the ingestion API approximately every minute.
+- With **1,200+ monitored servers** generating time-series data, efficient storage and querying became essential — I worked with **TimescaleDB** to handle high-volume monitoring data, including time-based queries and efficient storage of historical metrics. These metrics power dashboards, analytics, and alerting workflows.
+- Configurable alert rules with automatic incident creation and multi-channel notifications: email, SMS, WhatsApp, Discord, Telegram, Microsoft Teams, webhooks, and in-app notifications.
 - Role-based access control with read-only / read-write roles, time-bound invitations, module-level permissions, activity logs, sign-in monitoring, and API key management.
-- **Stripe-based subscription billing** built end-to-end — checkout, webhooks, plan entitlements, full lifecycle (upgrade/downgrade/cancel/resume), webhook dedup, append-only invoice history, per-team dunning state, and an admin observability panel.
+- Built the **billing and monetization system** end-to-end — subscription plans, billing intervals, feature entitlements, usage limits, dunning states, usage snapshots, and reconciliation logs.
 - **Free / Pro / Team / Business** tiers with server-count bands and feature gates; in-app paywall, usage meter, plan badge, and pricing page wired to Checkout.
+- Real-world scale: **1,200+ servers · ~1 metric/server/min · 99.9% uptime · 200+ teams · 10,000+ DAU**.
 - **85%+ Jest + Supertest coverage**; **Docker + AWS CI/CD** cut deploy time **~40%**; rate limiting, CSRF, encryption, CSP, and CAPTCHA applied as standard.
 
-### 🔹 [NestJS API Boilerplate Template](https://github.com/jahidhiron/nestjs-template)
+**Tech:** TypeScript · NestJS · Prisma ORM · PostgreSQL · TimescaleDB · Redis · Socket.io · React · Redux · Redux Saga · AWS · Docker · CI/CD · Nginx · Swagger/OpenAPI · Jest · Supertest · Stripe
 
-📅 Feb 2026 – Jul 2026
+---
 
-A production-grade REST API starter template using **NestJS 11, PostgreSQL, TypeORM, Redis, RabbitMQ, and Socket.IO** — designed to give backend teams a secure, scalable foundation with authentication, RBAC, logging, and messaging built in from day one.
+### 🔹 NestJS API Boilerplate Template
 
-- Implemented **JWT access/refresh token flow** with rotation, Google OAuth, email verification, password reset, "remember me" extended sessions, and multi-device session tracking.
-- Built decorator-based **RBAC** with fine-grained permissions, auto-discovered from controller routes via NestJS's DiscoveryService.
-- Designed a layered architecture (Config, Common, Shared, Infrastructure, Feature Modules) using the **Provider pattern** and a generic **BaseRepository** for consistent CRUD, pagination, and transaction handling.
-- Built per-request HTTP logging and audit-trail activity logging with **Winston** structured logging and **AsyncLocalStorage**-based request correlation.
-- Integrated **Socket.IO** for real-time WebSocket updates and **RabbitMQ** for decoupled background processing.
-- Applied **Helmet** security headers, CORS allowlisting, scrypt password hashing, HIBP breach checks, and **Redis-based rate limiting**; included **Docker Compose**, **Swagger/OpenAPI** auto-documentation, i18n support, and **Jest unit + e2e** coverage.
+📅 Feb 2026 – Jul 2026 · 💻 [github.com/jahidhiron/nestjs-template](https://github.com/jahidhiron/nestjs-template)
 
-### 🔹 [BRAC Group ERP – Budget Control, Fleet Management & Project Management (Microservices)](https://bit.ly/4ucQBGo)
+Built and open-sourced a production-grade REST API starter template using **NestJS 11, PostgreSQL, TypeORM, Redis, RabbitMQ, and Socket.IO** — designed to give backend teams a secure, scalable foundation with authentication, RBAC, logging, and messaging built in from day one.
 
-📅 Jan 2025 – Jul 2025
+**Authentication & Authorization**
+- JWT access/refresh token flow with rotation, Google OAuth, email verification, password reset, "remember me" extended sessions, and multi-device session tracking.
+- Decorator-based **RBAC** with fine-grained permissions, auto-discovered from controller routes via NestJS's DiscoveryService.
 
-BRAC Group ERP streamlines core operations across Budget Control, Fixed Asset, Finance & Accounting, Inventory, Procurement, Campus Maintenance, Fleet Management, HRMS, and Project Management — built as independently deployable microservices with dedicated databases and APIs.
+**Architecture & Patterns**
+- Layered architecture (Config, Common, Shared, Infrastructure, Feature Modules) using the Provider pattern for single-responsibility business logic.
+- Generic **BaseRepository** for consistent CRUD, pagination, and transaction handling across TypeORM entities.
 
-- **Budget Control:** Budget planning, allocation, donor project budgets with cost centers and funding sources, budget revision/reallocation with approval tracking, **variance analysis**, and audit-ready summary reporting integrated with Finance.
-- **Fleet Management:** Vehicle registration, trip management, maintenance scheduling, fuel consumption tracking, and driver management with real-time status updates.
-- **Project Management:** Centralized platform for project creation, planning, task management, milestone/progress tracking, and multi-level role-based approval chains.
-- Built with **NestJS, Next.js, SQL** with role-based approval workflows (delegation, multi-level approval, audit logging) shared across ERP modules.
+**Observability & Reliability**
+- Per-request HTTP logging and audit-trail activity logging (user + system level), with centralized error tracking exposing an admin API to inspect, resolve, and alert on unhandled server errors.
+- Winston structured logging with **AsyncLocalStorage**-based request correlation.
 
-### 🔹 [Prime Bank ERP – Central Dispatch Module (Microservices)](https://bit.ly/4ek1RvR)
+**Real-Time & Async Processing**
+- **Socket.IO** for real-time WebSocket updates and **RabbitMQ** for decoupled background processing, with async-deferred log persistence for high-throughput scenarios.
 
-📅 Aug 2024 – Jul 2025
+**Security & DevOps**
+- Helmet security headers, CORS allowlisting, scrypt password hashing, HIBP breach checks, and Redis-based rate limiting.
+- Docker Compose setup, Swagger/OpenAPI auto-documentation, i18n support, and comprehensive test coverage (Jest unit + e2e).
 
-Central Dispatch securely manages and tracks parcel, file, and equipment dispatch in Prime Bank's ERP — a core module of a microservices-based ERP system for one of the largest banking organizations in Bangladesh.
+**Tech:** TypeScript · NestJS · TypeORM · MySQL · RabbitMQ · Socket.io · Microservices · Docker · Swagger · I18n
 
-- Real-time tracking and management of parcels, files, and equipment using **unique codes** for full visibility.
-- Multi-channel dispatch with clear handoff workflows and approval-based routing for efficient deliveries.
-- Multi-Channel Dispatching: file and parcel delivery through internal messengers, external courier services, and on-demand riders.
+---
+
+### 🔹 BRAC Group ERP – Budget Control, Fleet Management & Project Management (Microservices)
+
+📅 Jan 2025 – Jul 2025 · 🏢 [APSIS Solutions](https://apsissolutions.com)
+
+A large-scale ERP system for the BRAC Group — built as independently deployable microservices with dedicated databases and APIs, following a synchronous microservice architecture on the backend and **Next.js** on the frontend, powered by the company's custom **APSIS Engine** framework.
+
+**Architecture**
+- The APSIS Engine is highly database-driven — once the concepts are understood, many common ERP features become easier to implement. For example, a table with pagination, searching, filtering, and sorting can be configured through the `sys_tables` database table using a unique slug, then rendered by a reusable frontend master component that calls the APSIS Engine API. Similar mechanisms handle forms, menus, user creation, delegation, web notifications, SMS, email, and other ERP features.
+
+**Modules Contributed To**
+- **Budget Control:** Developed and fixed APIs for Donor Projects, Activities, and Activity Groups, plus several complex reports. Includes budget planning, allocation, donor project budgets with cost centers and funding sources, budget revision/reallocation with approval tracking, **variance analysis**, and audit-ready summary reporting integrated with Finance.
+- **Fleet Management:** Managed BRAC employee transportation — vehicle and driver management, service scheduling, slot booking, and transportation requests, with real-time status updates. Fixed post-handover issues during UAT.
+- **Project Management:** Contributed to several submodules — centralized platform for project creation, planning, task management, milestone/progress tracking, and multi-level role-based approval chains.
+
+**Engineering Practices**
+- Worked in a large enterprise team with formal processes and strict documentation.
+- Followed strict engineering practices and managed Git/GitHub contributions carefully to avoid merge conflicts and unnecessary costs.
+
+**Tech:** TypeScript · NestJS · Next.js · PostgreSQL · MySQL · Oracle · Knex.js · RBAC · REST APIs · Docker · Jenkins · CI/CD · Microservices
+
+---
+
+### 🔹 Prime Bank ERP – Central Dispatch Module (Microservices)
+
+📅 Aug 2024 – Jul 2025 · 🏢 [APSIS Solutions](https://apsissolutions.com) 
+
+Central Dispatch securely manages and tracks parcel, file, and equipment dispatch in Prime Bank's ERP — a core module of a microservices-based ERP system for one of the largest banking organizations in Bangladesh, built on the **APSIS Engine** with **Next.js** on the frontend.
+
+**What I Built**
+- Took the **Central Dispatch module** from development through completion and **UAT**. The module manages documents and physical items between branches and external parties — single or bulk dispatches, messenger / courier / rider selection, parcel barcode generation, and delivery confirmation with proof of delivery. Every activity is tracked through a timeline.
+- Provided APIs for a dedicated rider mobile app, including **OTP-based delivery verification** workflow.
+- Built a **courier price upload system** supporting **50,000+ rows** of branch- and courier-specific pricing data with effective-date management — required query optimization and historical pricing handling.
+- Worked with single- and multi-level **delegation and approval workflows**.
+
+**Operational Highlights**
+- Real-time tracking and management of parcels, files, and equipment using unique codes for full visibility.
+- Multi-channel dispatching: file and parcel delivery through internal messengers, external courier services, and on-demand riders.
 - Routing & handoff management between sender, dispatch officer, and receiver — ensuring accountability.
-- File sharing & logging with detailed history logs for audit trails.
-- Secure operations with **role-based access**, real-time notifications, and comprehensive audit logs.
+- File sharing & detailed history logs for audit trails.
+- Secure operations with role-based access, real-time notifications, and comprehensive audit logs.
 
-### 🔹 [Amani Forged – E-Commerce Platform for Custom Automotive Wheels (NetSuite Integration)](https://amaniforged.com/)
+**Tech:** Node.js · TypeScript · NestJS · Next.js · PostgreSQL · Knex.js · TypeORM · Docker · CI/CD · Microservices
 
-📅 Oct 2023 – Nov 2024
+---
 
-A full-featured e-commerce platform for custom automotive wheels and tires — delivering both a customer-facing storefront and an admin dashboard integrated with NetSuite ERP, live at amaniforged.com.
+### 🔹 Amani Forged – E-Commerce Platform for Custom Automotive Wheels (NetSuite Integration)
 
+📅 Oct 2023 – Nov 2024 · 🌐 [amaniforged.com](https://amaniforged.com/)
+
+A full-featured e-commerce platform for custom automotive wheels and tires — delivering both a customer-facing storefront and an admin dashboard integrated with NetSuite ERP.
+
+**Storefront**
 - Product catalog with advanced filtering (series, design, price, diameter, finish) and vehicle-specific fitment compatibility (year/make/model).
 - Integrated a **3D wheel configurator** with AutoViz for real-time customization and AR visualization, plus a wheel-and-tire package builder with live pricing.
 - Persistent cart with guest email capture, coupon/affiliate discount validation, ZIP-based delivery routing, and **BNPL** messaging (Afterpay, Affirm).
-- Integrated multiple payment gateways — **Affirm, Katapult, Zelle, Venmo, PayPal**, wire transfer — and abandoned-cart recovery via automated email/SMS sequences.
+- Multiple payment gateways — **Affirm, Katapult, Zelle, Venmo, PayPal**, wire transfer — and abandoned-cart recovery via automated email/SMS sequences.
+
+**Admin & Integrations**
 - Centralized admin panel for order fulfillment, customer management, and payment reconciliation, with bi-directional **NetSuite sync** for real-time inventory and pricing.
 - Async **Google Drive-to-S3** media sync using OAuth 2.0 and **BullMQ** background jobs, with duplicate detection and hierarchical folder mapping.
+- Visual **email builder** for custom templates, a WordPress-like **post builder** for rich-content blog posts, and **API key management** with dynamic CORS for authorized external consumers.
+- **Card Funnel:** guided purchasing flow moving customers through product selection, configuration, cart, and checkout.
+- Email marketing with bulk campaign sends and an **affiliate program** with referral-based tracking and commissions.
+
+**Search & Scale**
 - **Elasticsearch**-powered product search across **10,000+ SKUs**, **GraphQL** API for admin operations, and scalable deployment via **Docker**, **CI/CD pipelines**, and **CDN caching**.
+
+**Tech:** TypeScript · Node.js · Express.js · Next.js · PostgreSQL · TypeORM · Elasticsearch · Redis · BullMQ · GraphQL · Amazon S3 · CDN · Cloudflare · Docker · CI/CD
+
+---
 
 ### 🔹 Alpha Search
 
-📅 Jun 2022 – Jul 2024
+📅 Jun 2022 – Jul 2024 · 🏢 Teamlance
 
-A scalable job sourcing platform handling **50,000+ resumes**, designed to automate candidate sourcing, resume discovery, job management, and client/candidate communication.
+A scalable HR/recruitment platform managing **50,000+ candidate resumes**, designed to automate candidate sourcing, resume discovery, job management, and client/candidate communication. I worked as a **Full-Stack Developer** from start to completion.
 
 - Automated resume scraping, parsing, and structured data extraction to transform raw resumes into searchable candidate profiles.
-- **Binary search algorithms** over sorted/indexed resume data for fast candidate discovery across 50,000+ resumes.
+- **Boolean resume search** with operators such as **AND, OR, and NOT** (e.g. `JavaScript AND Node.js AND React`) for fast candidate discovery across 50,000+ resumes.
 - Flexible, dynamic job templates supporting different positions, requirements, skills, and recruitment workflows.
-- **Gmail API** integration to centralize client and candidate email communication within the platform with a single trackable thread.
+- **Gmail API** integration into the Candidate module — recruiters send emails, receive replies, and continue conversations in-platform. Implemented batch-based email synchronization to reduce unnecessary API calls.
+- Migrated from WordPress to the **MERN stack**, with a separate migration service tracking ~70–80 GB of resumes stored in AWS and processing unhandled files incrementally.
 
-### 🔹 Cloud Class Room
+**Modules:** Candidate · Client · Client Contact · Position · Template · Documents · Notes
 
-📅 Jul 2020 – May 2022
+**Tech:** Node.js · Express.js · Next.js · MongoDB · Redux Saga · REST APIs
 
-A comprehensive **E-Learning Management System** designed to streamline online course management, learning, student administration, and private tuition operations.
+---
 
-- Secure authentication and authorization for students, instructors, and administrators with **role-based access**.
-- Comprehensive course management for instructors to create, organize, and manage courses, materials, assignments, and quizzes.
-- Multi-format content delivery — text, documents, videos, and interactive multimedia — for a seamless learning experience.
-- Private tuition management with schedules and student participation tracking, plus bulk student upload and grouping for efficient onboarding.
+### 🔹 Cloud Class Room – E-Learning Management System
 
-### 🔹 Smart Jobs
+📅 Jul 2020 – May 2022 · 🏢 Japahas
 
-📅 Apr 2021 – May 2022
+A comprehensive E-Learning Management System designed to streamline online course management, learning, student administration, and private tuition operations. I worked as a **Backend Developer** in a small team (PM, BA, Frontend Dev, me), owning the database design and completing the backend across **20–25 modules** in **~60 working days**.
 
-A comprehensive job recruitment platform connecting job seekers with employers — enabling job discovery, job publishing, applications, and recruitment tracking.
+**Core Features**
+- Authentication and authorization for Admin, Instructor, and Student with **role-based access**.
+- Course and lesson management; quizzes, question banks, and learning resources.
+- Course sharing between instructors with permissions; private tuition and time-slot management with overlap validation.
+- **Zoom integration** for live classes and bulk student/group management for efficient onboarding.
+- Real-time one-to-one and group chat using **Socket.io**.
 
-- Secure authentication and account management for job seekers and employers with role-based workflows.
-- Robust job search system with filtering by location, industry, job title, and other criteria.
-- Centralized job board where employers can create, publish, update, and manage job listings with detailed descriptions and qualifications.
-- Application workflow allowing job seekers to apply directly, with application tracking for both candidates and employers.
+**Technical Highlights**
+- Rate limiting for API security, **BullMQ** for asynchronous bulk email processing, and **Amazon S3** for videos, PDFs, documents, subtitles, and other resources.
+- **Multipart uploads** for faster and more reliable large video uploads.
+- Hands-on experience with AWS, Nginx, Jenkins, and CI/CD deployment.
+
+**Tech:** Node.js · Express.js · MongoDB · Socket.io · BullMQ · AWS · Nginx · Jenkins · REST APIs
+
+---
+
+### 🔹 Smart Jobs – Recruitment Platform
+
+📅 Apr 2021 – May 2022 · 🏢 Japahas
+
+My first professional project — a comprehensive job recruitment platform connecting job seekers with employers, where I contributed as a **Backend Developer** in a small team. My PM trusted me with **designing the database** even as a Junior Developer, which I refined over 2–3 iterations under his review.
+
+**Roles & Features**
+- **Admin:** Managed platform-level data such as categories, job levels, and other configurations.
+- **Employer:** Created and managed job posts (regular + premium/Hot Jobs), purchased CV credits, and searched the CV Bank using filters (location, salary, age, education, experience, keywords) with **PayPal** payment integration.
+- **Candidate:** Created profiles, searched for jobs, and applied to job postings.
+
+**Engineering Notes**
+- Around **20–25 backend modules**, completed in approximately **45 working days** while frontend development progressed in parallel.
+- 3–4 rounds of UI testing helped identify edge cases and reduced backend bugs.
+- As job posts grew, introduced **Redis caching** for frequently accessed data to improve page load times.
+- Gained hands-on experience with AWS, Nginx, Jenkins, deployment, and CI/CD.
+
+**Tech:** Node.js · Express.js · MongoDB · Redis · AWS · Nginx · Jenkins · PayPal · REST APIs
 
 ---
 
