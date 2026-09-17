@@ -20,24 +20,40 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I am an experienced **Software Engineer** with over five years of intense, hands-on expertise spanning the entirety of the application development lifecycle, from sophisticated front-end user experience design to robust back-end system architecture and modern cloud deployment.
+I'm a **Software Engineer** with **6+ years of professional experience**, primarily focused on backend development and full-stack web applications.
 
-I am a **full-stack architect** scaling distributed infrastructure for **10,000+ daily users**, having progressed from frontend specialist to system owner across backend APIs, microservices, and platform engineering. I turn product goals into reliable, well-crafted solutions — working closely with teams to ship software that solves real business problems.
+Throughout my career, I've worked on a variety of production systems, including **SaaS platforms, server monitoring, enterprise ERP, banking operations, recruitment and HR platforms, e-commerce, and EdTech**.
 
-My skill set includes a range of technologies, such as Node.js, NestJS, FastAPI, Python, Express.js, React, Next.js, and cloud solutions like Docker and AWS. I have extensive experience in microservices architecture and database management, working with MongoDB, PostgreSQL, and MySQL.
+My core strength is backend engineering with **Node.js, Express.js, NestJS, TypeScript, REST APIs, MongoDB, PostgreSQL, MySQL, Redis, and Docker**. I also have hands-on experience with **React and Next.js**, allowing me to work across the stack when needed.
 
-Although I am based in Bangladesh, I work with teams worldwide on remote-first delivery, particularly in full-stack development, microservices, and cloud-based solutions. Alongside my engineering work, I teach on Udemy, reaching **72,000+ developers** worldwide.
+I've worked on systems involving:
 
-- 🔭 Currently working as a **Software Engineer at ChartVPS Technologies** (Canada, Remote)
-- 🌱 Strong focus on **microservices, distributed systems, and platform engineering**
-- 🎓 **B.Sc. in Computer Science** from American International University-Bangladesh (AIUB)
-- 📫 Reach me at **namehiron.96@gmail.com**
+- High-volume metric ingestion and time-series data processing
+- Enterprise ERP workflows and business applications
+- Recruitment, job posting, candidate management, and CV search
+- E-commerce platforms and third-party integrations
+- Course management, real-time communication, and background processing
+- Payment and subscription systems
+- API integrations with services such as Stripe, PayPal, Gmail, Zoom, Google Drive, and NetSuite
+- Redis caching and backend performance optimization
+- AWS deployment, Nginx, Jenkins, and CI/CD
+
+Beyond professional software development, I'm also a **Udemy Instructor**, where I create and teach software development courses. My courses have reached **72,000+ students** with an average rating of **4.5/5**. Teaching has strengthened my ability to break down complex technical concepts, communicate clearly, and think about software from a learner's perspective.
+
+I've also had opportunities to take ownership beyond day-to-day development, including **requirements analysis, database design, system workflows, debugging, testing, deployment, and production problem solving**.
+
+I enjoy working on backend systems where there are **real business requirements, integrations, data, performance considerations, and workflows** to think through — not just isolated features.
+
+- Currently working as a **Software Engineer at ChartVPS Technologies** (Canada, Remote)
+- Strong focus on **microservices, distributed systems, and platform engineering**
+- **B.Sc. in Computer Science** from American International University-Bangladesh (AIUB)
+- Reach me at **namehiron.96@gmail.com**
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Programming Languages**
 <br />
@@ -69,11 +85,7 @@ Redis • Elasticsearch
 
 **State Management**
 <br />
-Redux • Redux-Saga • React Query • RTK Query • Zustand
-
-**UI & Styling**
-<br />
-Tailwind CSS • Shadcn UI • Ant Design • Material UI
+Redux • Redux-Saga • React Query
 
 **DevOps & Cloud**
 <br />
@@ -93,7 +105,7 @@ REST API • GraphQL • Microservices • Background Tasks
 
 **AI & Modern Workflow**
 <br />
-AI-Powered Dev • GitHub Copilot
+AI-Powered Dev • Claude Code
 
 **Soft Skills & Leadership**
 <br />
@@ -101,11 +113,11 @@ Team Leadership • Agile • Mentoring
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
-### 🔹 Software Engineer — **ChartVPS Technologies** _(Canada · Remote)_
+### Software Engineer — **[ChartVPS Technologies](https://chartvps.com/)** _(Canada · Remote)_
 
-📅 Aug 2025 – Present
+Aug 2025 - Present · Full time
 
 ChartVPS offers fast, reliable, and dedicated servers for traders and finance professionals.
 
@@ -117,20 +129,28 @@ ChartVPS offers fast, reliable, and dedicated servers for traders and finance pr
 - Reduced deployment time by **~40%** through **Docker** containerization and **AWS CI/CD** pipelines; adopted **GitHub Copilot** for test generation and scaffolding, saving **~3 hours per sprint** on boilerplate and cutting cycle time by **~25%**.
 - Maintained **85%+ test coverage** with **Jest** and **Supertest** across production services; applied rate limiting, CSRF protection, encryption/decryption, CSP, and CAPTCHA as standard.
 
-### 🔹 Course Instructor — **Udemy** _(Remote)_
+**Tech:** TypeScript · Node.js · NestJS · Prisma ORM · React · Redux · Redux Saga · Redis · Socket.io · Docker · CI/CD · GitHub Actions · AWS · Cloudflare · Nginx · Unit Testing · E2E Testing · AI-Powered Dev
 
-📅 Nov 2023 – Present
+---
+
+### Course Instructor — **[Udemy](https://www.udemy.com/)** _(Remote)_
+
+Nov 2023 - Present · Self-employed
 <br />
-🔗 [https://www.udemy.com/user/jahid-hiron](https://www.udemy.com/user/jahid-hiron)
+Profile: [https://www.udemy.com/user/jahid-hiron](https://www.udemy.com/user/jahid-hiron)
 
-- Authored and recorded **6+ full-stack and deployment courses** on Udemy, reaching **72,000+ students** with a **4.5/5 average rating** across practical, production-grade lessons.
-- Designed end-to-end curricula that pair recorded lectures with hands-on assignments, coding exercises, quizzes, downloadable resources, and supporting articles.
+- Authored and recorded **6+ full-stack and deployment courses** on Udemy, reaching **72,000+ students** with a **4.5/5 average rating** across practical, production-grade lessons for fellow engineers.
+- Designed end-to-end curricula that pair recorded lectures with hands-on assignments, coding exercises, quizzes, downloadable resources, and supporting articles — turning concepts into repeatable, real-world practice rather than passive video watching.
 - Grew the audience from **0 to 72,000+ enrolled students** over 3 years, maintaining high learner satisfaction through clear curriculum design, structured assessments, and professional communication at scale.
-- Regularly refreshed course content to stay current with evolving tools and practices, sustaining a 4.5/5 average rating across 72,000+ students.
+- Regularly refreshed course content to stay current with evolving tools and practices, sustaining a 4.5/5 average rating across 72,000+ students and continuously updating assignments, quizzes, and articles alongside new lecture material.
 
-### 🔹 Software Engineer — **APSIS Solutions Limited** _(Dhaka, Bangladesh · On-site)_
+**Tech:** Node.js · MongoDB · React · JavaScript · Mongoose · REST APIs · Deployment · CI/CD · Nginx · GitHub Actions
 
-📅 Aug 2024 – Jul 2025
+---
+
+### Software Engineer — **[APSIS Solutions Limited](https://apsissolutions.com/)** _(Dhaka, Bangladesh · On-site)_
+
+Aug 2024 - Jul 2025 · 1 yr · Full-time
 
 APSIS Solutions is a telecom solutions provider offering a range of value-added services and products for telecom operators.
 
@@ -139,20 +159,28 @@ APSIS Solutions is a telecom solutions provider offering a range of value-added 
 - Contributed across the **BRAC Group ERP** (Donor Project, Fleet, and Project Management) — **20+ sub-modules and 25+ reports** spanning academic and operational workflows.
 - Collaborated closely with a **3-engineer feature squad**, contributing to PR reviews, pair programming, and code review workshops that helped reduce average PR review cycle from **5 days to 3.5 days**.
 
-### 🔹 Full-Stack Developer — **Teamlance** _(Bulgaria · Remote)_
+**Tech:** TypeScript · Node.js · NestJS · Next.js · PostgreSQL · MySQL · Oracle Database · TypeORM · Knex.js · Microservices · ERP Software
 
-📅 Jun 2022 – Jul 2024
+---
 
-Teamlance is a dedicated software development company with a deep talent pool in software development and design.
+### Full-Stack Developer — **[Teamlance](https://teamlance.io/)** _(Bulgaria · Remote)_
+
+Jun 2022 - Jul 2024 · 2 yrs 2 mos · Full-time
+
+Teamlance is a dedicated software development company that has a deep talent pool in software development and design.
 
 - Built **AlphaSearch**, a job sourcing platform handling **50,000+ resumes**, with dynamic job templates, resume scraping for binary search, and centralized client/candidate email via the **Gmail API**.
 - Designed and shipped the front-end experience with **React and Next.js**, including dynamic, configurable job templates that let recruiters and clients tailor search flows per role.
 - Built resume scraping and ingestion on **Node.js with MongoDB**, enabling fast binary-search style lookups across 50,000+ resumes so recruiters could surface candidates quickly.
 - Integrated the **Gmail API** for centralized client and candidate email, replacing ad-hoc mailbox workflows with one consistent, trackable thread.
 
-### 🔹 Backend Developer — **Japahas** _(Dhaka, Bangladesh · On-site)_
+**Tech:** Amazon EC2 · Redux Saga · PostgreSQL · BullMQ · GitHub Actions · AWS · MySQL · TypeORM · REST APIs · Deployment · Git · TypeScript · Redux · MongoDB · PayPal Integration · Express.js · React · JavaScript · Next.js · Node.js
 
-📅 Jul 2020 – May 2022
+---
+
+### Backend Developer — **Japahas** _(Dhaka, Bangladesh · On-site)_
+
+Jul 2020 - May 2022 · 1 yr 11 mos · Full-time
 
 Japahas delivers custom software and automation solutions.
 
@@ -160,17 +188,19 @@ Japahas delivers custom software and automation solutions.
 - Designed and developed **REST APIs** and data models for each product, owning the backend from schema through endpoint implementation.
 - Delivered **3 production products** on the same Node.js + MongoDB stack, supporting different domain flows (education, recruitment, commerce) without product-specific rewrites.
 
+**Tech:** JavaScript · Node.js · Express.js · MongoDB · REST APIs
+
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 A snapshot of the systems I've designed, built, and shipped across SaaS, ERP, e-commerce, education, and recruitment — from real-time monitoring and Stripe billing to microservices platforms and full-stack products.
 
 ---
 
-### 🔹 ServerIQ – Server Monitoring & SaaS Subscription Billing Platform
+### ServerIQ – Server Monitoring & SaaS Subscription Billing Platform
 
-📅 Aug 2025 – Present · 🏢 [ChartVPS Technologies](https://www.chartvps.com) · 🌐 [serveriq.io](https://serveriq.io)
+Aug 2025 – Present · [ChartVPS Technologies](https://www.chartvps.com) · [serveriq.io](https://serveriq.io)
 
 A secure, multi-tenant server monitoring and hosting management platform that gives individuals and teams real-time infrastructure visibility, automated incident response, and subscription-based access control.
 
@@ -187,28 +217,33 @@ A secure, multi-tenant server monitoring and hosting management platform that gi
 
 ---
 
-### 🔹 NestJS API Boilerplate Template
+### NestJS API Boilerplate Template
 
-📅 Feb 2026 – Jul 2026 · 💻 [github.com/jahidhiron/nestjs-template](https://github.com/jahidhiron/nestjs-template)
+Feb 2026 – Jul 2026 · [github.com/jahidhiron/nestjs-template](https://github.com/jahidhiron/nestjs-template)
 
 Built and open-sourced a production-grade REST API starter template using **NestJS 11, PostgreSQL, TypeORM, Redis, RabbitMQ, and Socket.IO** — designed to give backend teams a secure, scalable foundation with authentication, RBAC, logging, and messaging built in from day one.
 
 **Authentication & Authorization**
+
 - JWT access/refresh token flow with rotation, Google OAuth, email verification, password reset, "remember me" extended sessions, and multi-device session tracking.
 - Decorator-based **RBAC** with fine-grained permissions, auto-discovered from controller routes via NestJS's DiscoveryService.
 
 **Architecture & Patterns**
+
 - Layered architecture (Config, Common, Shared, Infrastructure, Feature Modules) using the Provider pattern for single-responsibility business logic.
 - Generic **BaseRepository** for consistent CRUD, pagination, and transaction handling across TypeORM entities.
 
 **Observability & Reliability**
+
 - Per-request HTTP logging and audit-trail activity logging (user + system level), with centralized error tracking exposing an admin API to inspect, resolve, and alert on unhandled server errors.
 - Winston structured logging with **AsyncLocalStorage**-based request correlation.
 
 **Real-Time & Async Processing**
+
 - **Socket.IO** for real-time WebSocket updates and **RabbitMQ** for decoupled background processing, with async-deferred log persistence for high-throughput scenarios.
 
 **Security & DevOps**
+
 - Helmet security headers, CORS allowlisting, scrypt password hashing, HIBP breach checks, and Redis-based rate limiting.
 - Docker Compose setup, Swagger/OpenAPI auto-documentation, i18n support, and comprehensive test coverage (Jest unit + e2e).
 
@@ -216,21 +251,24 @@ Built and open-sourced a production-grade REST API starter template using **Nest
 
 ---
 
-### 🔹 BRAC Group ERP – Budget Control, Fleet Management & Project Management (Microservices)
+### BRAC Group ERP – Budget Control, Fleet Management & Project Management (Microservices)
 
-📅 Jan 2025 – Jul 2025 · 🏢 [APSIS Solutions](https://apsissolutions.com)
+Jan 2025 – Jul 2025 · [APSIS Solutions](https://apsissolutions.com)
 
 A large-scale ERP system for the BRAC Group — built as independently deployable microservices with dedicated databases and APIs, following a synchronous microservice architecture on the backend and **Next.js** on the frontend, powered by the company's custom **APSIS Engine** framework.
 
 **Architecture**
+
 - The APSIS Engine is highly database-driven — once the concepts are understood, many common ERP features become easier to implement. For example, a table with pagination, searching, filtering, and sorting can be configured through the `sys_tables` database table using a unique slug, then rendered by a reusable frontend master component that calls the APSIS Engine API. Similar mechanisms handle forms, menus, user creation, delegation, web notifications, SMS, email, and other ERP features.
 
 **Modules Contributed To**
+
 - **Budget Control:** Developed and fixed APIs for Donor Projects, Activities, and Activity Groups, plus several complex reports. Includes budget planning, allocation, donor project budgets with cost centers and funding sources, budget revision/reallocation with approval tracking, **variance analysis**, and audit-ready summary reporting integrated with Finance.
 - **Fleet Management:** Managed BRAC employee transportation — vehicle and driver management, service scheduling, slot booking, and transportation requests, with real-time status updates. Fixed post-handover issues during UAT.
 - **Project Management:** Contributed to several submodules — centralized platform for project creation, planning, task management, milestone/progress tracking, and multi-level role-based approval chains.
 
 **Engineering Practices**
+
 - Worked in a large enterprise team with formal processes and strict documentation.
 - Followed strict engineering practices and managed Git/GitHub contributions carefully to avoid merge conflicts and unnecessary costs.
 
@@ -238,19 +276,21 @@ A large-scale ERP system for the BRAC Group — built as independently deployabl
 
 ---
 
-### 🔹 Prime Bank ERP – Central Dispatch Module (Microservices)
+### Prime Bank ERP – Central Dispatch Module (Microservices)
 
-📅 Aug 2024 – Jul 2025 · 🏢 [APSIS Solutions](https://apsissolutions.com) 
+Aug 2024 – Jul 2025 · [APSIS Solutions](https://apsissolutions.com) · [Live Demo](https://bit.ly/4ek1RvR)
 
 Central Dispatch securely manages and tracks parcel, file, and equipment dispatch in Prime Bank's ERP — a core module of a microservices-based ERP system for one of the largest banking organizations in Bangladesh, built on the **APSIS Engine** with **Next.js** on the frontend.
 
 **What I Built**
+
 - Took the **Central Dispatch module** from development through completion and **UAT**. The module manages documents and physical items between branches and external parties — single or bulk dispatches, messenger / courier / rider selection, parcel barcode generation, and delivery confirmation with proof of delivery. Every activity is tracked through a timeline.
 - Provided APIs for a dedicated rider mobile app, including **OTP-based delivery verification** workflow.
 - Built a **courier price upload system** supporting **50,000+ rows** of branch- and courier-specific pricing data with effective-date management — required query optimization and historical pricing handling.
 - Worked with single- and multi-level **delegation and approval workflows**.
 
 **Operational Highlights**
+
 - Real-time tracking and management of parcels, files, and equipment using unique codes for full visibility.
 - Multi-channel dispatching: file and parcel delivery through internal messengers, external courier services, and on-demand riders.
 - Routing & handoff management between sender, dispatch officer, and receiver — ensuring accountability.
@@ -261,19 +301,21 @@ Central Dispatch securely manages and tracks parcel, file, and equipment dispatc
 
 ---
 
-### 🔹 Amani Forged – E-Commerce Platform for Custom Automotive Wheels (NetSuite Integration)
+### Amani Forged – E-Commerce Platform for Custom Automotive Wheels (NetSuite Integration)
 
-📅 Oct 2023 – Nov 2024 · 🌐 [amaniforged.com](https://amaniforged.com/)
+Oct 2023 – Nov 2024 · [amaniforged.com](https://amaniforged.com/)
 
 A full-featured e-commerce platform for custom automotive wheels and tires — delivering both a customer-facing storefront and an admin dashboard integrated with NetSuite ERP.
 
 **Storefront**
+
 - Product catalog with advanced filtering (series, design, price, diameter, finish) and vehicle-specific fitment compatibility (year/make/model).
 - Integrated a **3D wheel configurator** with AutoViz for real-time customization and AR visualization, plus a wheel-and-tire package builder with live pricing.
 - Persistent cart with guest email capture, coupon/affiliate discount validation, ZIP-based delivery routing, and **BNPL** messaging (Afterpay, Affirm).
 - Multiple payment gateways — **Affirm, Katapult, Zelle, Venmo, PayPal**, wire transfer — and abandoned-cart recovery via automated email/SMS sequences.
 
 **Admin & Integrations**
+
 - Centralized admin panel for order fulfillment, customer management, and payment reconciliation, with bi-directional **NetSuite sync** for real-time inventory and pricing.
 - Async **Google Drive-to-S3** media sync using OAuth 2.0 and **BullMQ** background jobs, with duplicate detection and hierarchical folder mapping.
 - Visual **email builder** for custom templates, a WordPress-like **post builder** for rich-content blog posts, and **API key management** with dynamic CORS for authorized external consumers.
@@ -281,15 +323,16 @@ A full-featured e-commerce platform for custom automotive wheels and tires — d
 - Email marketing with bulk campaign sends and an **affiliate program** with referral-based tracking and commissions.
 
 **Search & Scale**
+
 - **Elasticsearch**-powered product search across **10,000+ SKUs**, **GraphQL** API for admin operations, and scalable deployment via **Docker**, **CI/CD pipelines**, and **CDN caching**.
 
 **Tech:** TypeScript · Node.js · Express.js · Next.js · PostgreSQL · TypeORM · Elasticsearch · Redis · BullMQ · GraphQL · Amazon S3 · CDN · Cloudflare · Docker · CI/CD
 
 ---
 
-### 🔹 Alpha Search
+### Alpha Search
 
-📅 Jun 2022 – Jul 2024 · 🏢 Teamlance
+Jun 2022 – Jul 2024 · Teamlance
 
 A scalable HR/recruitment platform managing **50,000+ candidate resumes**, designed to automate candidate sourcing, resume discovery, job management, and client/candidate communication. I worked as a **Full-Stack Developer** from start to completion.
 
@@ -305,13 +348,14 @@ A scalable HR/recruitment platform managing **50,000+ candidate resumes**, desig
 
 ---
 
-### 🔹 Cloud Class Room – E-Learning Management System
+### Cloud Class Room – E-Learning Management System
 
-📅 Jul 2020 – May 2022 · 🏢 Japahas
+Jul 2020 – May 2022 · Japahas
 
 A comprehensive E-Learning Management System designed to streamline online course management, learning, student administration, and private tuition operations. I worked as a **Backend Developer** in a small team (PM, BA, Frontend Dev, me), owning the database design and completing the backend across **20–25 modules** in **~60 working days**.
 
 **Core Features**
+
 - Authentication and authorization for Admin, Instructor, and Student with **role-based access**.
 - Course and lesson management; quizzes, question banks, and learning resources.
 - Course sharing between instructors with permissions; private tuition and time-slot management with overlap validation.
@@ -319,6 +363,7 @@ A comprehensive E-Learning Management System designed to streamline online cours
 - Real-time one-to-one and group chat using **Socket.io**.
 
 **Technical Highlights**
+
 - Rate limiting for API security, **BullMQ** for asynchronous bulk email processing, and **Amazon S3** for videos, PDFs, documents, subtitles, and other resources.
 - **Multipart uploads** for faster and more reliable large video uploads.
 - Hands-on experience with AWS, Nginx, Jenkins, and CI/CD deployment.
@@ -327,18 +372,20 @@ A comprehensive E-Learning Management System designed to streamline online cours
 
 ---
 
-### 🔹 Smart Jobs – Recruitment Platform
+### Smart Jobs – Recruitment Platform
 
-📅 Apr 2021 – May 2022 · 🏢 Japahas
+Apr 2021 – May 2022 · Japahas
 
 My first professional project — a comprehensive job recruitment platform connecting job seekers with employers, where I contributed as a **Backend Developer** in a small team. My PM trusted me with **designing the database** even as a Junior Developer, which I refined over 2–3 iterations under his review.
 
 **Roles & Features**
+
 - **Admin:** Managed platform-level data such as categories, job levels, and other configurations.
 - **Employer:** Created and managed job posts (regular + premium/Hot Jobs), purchased CV credits, and searched the CV Bank using filters (location, salary, age, education, experience, keywords) with **PayPal** payment integration.
 - **Candidate:** Created profiles, searched for jobs, and applied to job postings.
 
 **Engineering Notes**
+
 - Around **20–25 backend modules**, completed in approximately **45 working days** while frontend development progressed in parallel.
 - 3–4 rounds of UI testing helped identify edge cases and reduced backend bugs.
 - As job posts grew, introduced **Redis caching** for frequently accessed data to improve page load times.
@@ -348,7 +395,7 @@ My first professional project — a comprehensive job recruitment platform conne
 
 ---
 
-## 🎓 Education
+## Education
 
 ### Bachelor of Science in Computer Science
 
@@ -379,29 +426,29 @@ My first professional project — a comprehensive job recruitment platform conne
 
 ---
 
-## 🏆 Key Achievements
+## Key Achievements
 
-- 🏗️ Scaling distributed infrastructure for **10,000+ daily active traders** and **1,200+ monitored servers** with **99.9% uptime**
-- ⚡ Improved system uptime from **95% → 99%** on 500K+ daily transaction ERP
-- 💳 Shipped end-to-end **Stripe subscription billing** — checkout, webhooks, lifecycle, entitlements, and admin observability
-- 📦 Built and open-sourced a **NestJS API Boilerplate** template adopted by teams as a secure, scalable backend foundation
-- 📚 **72,000+ students** reached on Udemy with **4.5/5 average rating** across 6+ full-stack and deployment courses
-- 👥 Led engineering teams and reduced PR review cycle from **5 days to 3.5 days** via mentorship and code review workshops
+- Scaled distributed infrastructure for **10,000+ daily active traders** and **1,200+ monitored servers** with **99.9% uptime**
+- Improved system uptime from **95% → 99%** on a 500K+ daily-transaction ERP
+- Shipped end-to-end **Stripe subscription billing** — checkout, webhooks, lifecycle, entitlements, and admin observability
+- Built and open-sourced a **NestJS API Boilerplate** template adopted by teams as a secure, scalable backend foundation
+- Reached **72,000+ students** on Udemy with a **4.5/5 average rating** across 6+ full-stack and deployment courses
+- Reduced PR review cycle from **5 days to 3.5 days** via mentorship and code review workshops
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
-I'm always open to interesting conversations, collaboration opportunities, and challenging engineering problems. Feel free to reach out!
+I'm always open to interesting conversations, collaboration opportunities, and challenging engineering problems. Feel free to reach out.
 
-- 🌐 Portfolio: [jahidhiron.com](https://www.jahidhiron.com)
-- 💼 LinkedIn: [linkedin.com/in/jahidhiron](https://www.linkedin.com/in/jahidhiron)
-- 🐙 GitHub: [github.com/jahidhiron](http://github.com/jahidhiron)
-- ✍️ Medium: [medium.com/@jahidhiron](https://medium.com/@jahidhiron)
-- ▶️ YouTube: [youtube.com/@jahid-academy](https://www.youtube.com/@jahid-academy)
-- 🐦 Twitter (X): [x.com/jahid_hiron](https://x.com/jahid_hiron)
-- 📸 Instagram: [instagram.com/jahid_hiron](https://www.instagram.com/jahid_hiron)
-- 📧 Email: **namehiron.96@gmail.com**
+- Portfolio: [jahidhiron.com](https://www.jahidhiron.com)
+- LinkedIn: [linkedin.com/in/jahidhiron](https://www.linkedin.com/in/jahidhiron)
+- GitHub: [github.com/jahidhiron](http://github.com/jahidhiron)
+- Medium: [medium.com/@jahidhiron](https://medium.com/@jahidhiron)
+- YouTube: [youtube.com/@jahid-academy](https://www.youtube.com/@jahid-academy)
+- Twitter (X): [x.com/jahid_hiron](https://x.com/jahid_hiron)
+- Instagram: [instagram.com/jahid_hiron](https://www.instagram.com/jahid_hiron)
+- Email: **namehiron.96@gmail.com**
 
 ---
 
